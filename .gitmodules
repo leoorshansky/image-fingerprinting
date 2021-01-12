@@ -1,0 +1,3 @@
+[submodule "pHash"]
+	path = pHash
+	url = https://github.com/clearscene/pHash
